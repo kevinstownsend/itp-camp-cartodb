@@ -45,20 +45,20 @@ Visualization wizards allow you to quickly create engaging maps with any kind of
 - **Intensity** (think Simple + Cluster)
 - **Density** (hex density grid)
 
-#### Infowindow
+#### Infowindows
 
-Infowindows pop up after clicking on a map marker. Choose what information to display and how to style it. Or disable Infowindows completely.
+Infowindows pop up after clicking on a map marker. Choose what information to display and how to style it. Or disable infowindows completely.
 
-***Note:If Infowindow button is disabled, your current visualization does not support this feature***
+***Note: not all visualizations support infowindows***
 
 #### CartoCSS
 
 CSS-like stylesheets for changing appearance of map elements. You can choose a wizard and then customize the styles, or write your own from scratch.
 
-***Note: styles in the editor are reset when you change to a different visualization using the wizards***
+***Note: the CartoCSS in the editor is reset when you change visualizations using the wizards***
 
 #### Legends
 
-Some wizard visualizations support legends automatically. If yours doesn't, you can make your own.
+Some visualizations automatically support legends. If not, you can make your own.
 
 ## CartoDB.js
