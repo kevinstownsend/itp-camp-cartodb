@@ -65,6 +65,10 @@ Some visualizations automatically support legends. If not, you can make your own
 
 Clone this repo and modify `example.html` to customize your infowindows and get a feel for how the JavaScript framework is implemented.
 
+Easy way to develop locally is to run a SimpleHTTPServer in your working directory (from the command line):
+
+`python -m SimpleHTTPServer`
+
 ## Resources
 - [CartoDB Tutorials](http://docs.cartodb.com/tutorials.html)
 - [CartoDB.js From the Ground Up](http://academy.cartodb.com/courses/03-cartodbjs-ground-up.html)
