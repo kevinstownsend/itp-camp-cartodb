@@ -63,8 +63,11 @@ Some visualizations automatically support legends. If not, you can make your own
 
 ## CartoDB.js
 
+Clone this repo and modify `example.html` to customize your infowindows and get a feel for how the JavaScript framework is implemented.
+
 ## Resources
 - [CartoDB Tutorials](http://docs.cartodb.com/tutorials.html)
+- [CartoDB.js From the Ground Up](http://academy.cartodb.com/courses/03-cartodbjs-ground-up.html)
 - [CartoDB Examples](https://github.com/CartoDB/cartodb.js/tree/develop/examples) (GitHub)
 - [CartoDB Basemaps](https://cartodb.com/basemaps/)
 - [Stamen Maps](http://maps.stamen.com/)
