@@ -33,6 +33,8 @@ SELECT * FROM nypd_motor_vehicle_collisions WHERE number_of_cyclist_injured > 0
 
 #### Wizards
 
+Visualization wizards allow you to quickly create engaging maps with any kind of data.
+
 - **Simple** (one row, one marker)
 - **Cluster** (many rows, one marker / geographical proximity)
 - **Choropleth** (one row, one marker / marker color gradiet <=> numerical column values)
@@ -45,15 +47,15 @@ SELECT * FROM nypd_motor_vehicle_collisions WHERE number_of_cyclist_injured > 0
 
 #### Infowindow
 
-By default, an infowindow appears when map markers are clicked. This menu lets you choose information to display and how to style it.
+Infowindows pop up after clicking on a map marker. Choose what information to display and how to style it. Or disable Infowindows completely.
 
-*If Infowindow button is disabled, your current visualization does not support this feature*
+***Note:If Infowindow button is disabled, your current visualization does not support this feature***
 
 #### CartoCSS
 
-Stylesheets (just like CSS) for changing appearance of map elements. You can choose a wizard and then customize the styles, or write your own froms scratch.
+CSS-like stylesheets for changing appearance of map elements. You can choose a wizard and then customize the styles, or write your own from scratch.
 
-*Be careful: styles in the editor are reset when you change to a different visualization using the wizards*
+***Note: styles in the editor are reset when you change to a different visualization using the wizards***
 
 #### Legends
 
