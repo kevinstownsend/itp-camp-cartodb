@@ -62,3 +62,9 @@ CSS-like stylesheets for changing appearance of map elements. You can choose a w
 Some visualizations automatically support legends. If not, you can make your own.
 
 ## CartoDB.js
+
+## Resources
+- [CartoDB Tutorials](http://docs.cartodb.com/tutorials.html)
+- [CartoDB Examples](https://github.com/CartoDB/cartodb.js/tree/develop/examples) (GitHub)
+- [CartoDB Basemaps](https://cartodb.com/basemaps/)
+- [Stamen Maps](http://maps.stamen.com/)
