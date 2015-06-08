@@ -35,15 +35,15 @@ SELECT * FROM nypd_motor_vehicle_collisions WHERE number_of_cyclist_injured > 0
 
 Visualization wizards allow you to quickly create engaging maps with any kind of data.
 
-- **Simple** (one row, one marker)
-- **Cluster** (many rows, one marker / geographical proximity)
-- **Choropleth** (one row, one marker / marker color gradiet <=> numerical column values)
-- **Category** (one row, one marker / marker color <=> distinct column values)
-- **Bubble** (one row, one marker / marker size <=> numerical column values)
-- **Torque, Torque Cat** (animation over time)
-- **Heatmap, Torque Heatmap** (density map)
-- **Intensity** (think Simple + Cluster)
-- **Density** (hex density grid)
+- **Simple**: one marker = one data point
+- **Cluster**: one marker = many data points (based on geographical proximity)
+- **Choropleth**: one marker = one data point (color gradient based on numerical column values)
+- **Category**: one marker = one data point (color groups based on distinct column values)
+- **Bubble**: one marker = one data point (marker size based on numerical column values)
+- **Torque, Torque Cat**:  animation over time
+- **Heatmap**: density map (optionally animated using Torque)
+- **Intensity**: think **Simple** + **Cluster**
+- **Density**: hexagonal density grid
 
 #### Infowindows
 
