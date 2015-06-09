@@ -70,8 +70,9 @@ Easy way to develop locally is to run a SimpleHTTPServer in your working directo
 `python -m SimpleHTTPServer`
 
 ## Resources
-- [CartoDB Tutorials](http://docs.cartodb.com/tutorials.html)
+- [CartoDB tutorials](http://docs.cartodb.com/tutorials.html)
 - [CartoDB.js From the Ground Up](http://academy.cartodb.com/courses/03-cartodbjs-ground-up.html)
-- [CartoDB Examples](https://github.com/CartoDB/cartodb.js/tree/develop/examples) (GitHub)
-- [CartoDB Basemaps](https://cartodb.com/basemaps/)
-- [Stamen Maps](http://maps.stamen.com/)
+- [CartoDB examples](https://github.com/CartoDB/cartodb.js/tree/develop/examples) (GitHub)
+- [CartoDB basemaps](https://cartodb.com/basemaps/)
+- [Stamen maps](http://maps.stamen.com/)
+- [CartoCSS docs](https://github.com/mapbox/carto/blob/master/docs/latest.md)
